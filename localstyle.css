@@ -23,10 +23,8 @@ section.generic {
 /******************************************************************************/
 
 table, th, td {
-    background-color: #f9f9f9;
     border-collapse: collapse;}
 table {
-    border: 1px solid gray;
     width: 100%;
 }
 caption {
