@@ -23,10 +23,10 @@ section.generic {
 /******************************************************************************/
 
 table, th, td {
-    background-color: #F2F2F2;
+    background-color: #f9f9f9;
     border-collapse: collapse;}
 table {
-    border: 1px solid #000000;
+    border: 1px solid gray;
     width: 100%;
 }
 caption {
@@ -37,4 +37,5 @@ th, td {
     border: 1px inset #CCCCCC;
     hyphens: auto;
     padding: 0.25em;
+    vertical-align: top;
 }
