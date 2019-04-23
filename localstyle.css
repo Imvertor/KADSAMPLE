@@ -32,8 +32,17 @@ caption {
     text-align: left;
 }
 th, td {
-    border: 1px inset #CCCCCC;
+    /* border: 1px inset #CCCCCC; */
     hyphens: auto;
     padding: 0.25em;
     vertical-align: top;
+}
+
+/******************************************************************************/
+/*                                Local styles                                 */
+/******************************************************************************/
+
+span.supplier {
+    display: block;
+    color: gray;
 }
