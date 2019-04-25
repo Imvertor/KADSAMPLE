@@ -23,8 +23,10 @@ section.generic {
 /******************************************************************************/
 
 table, th, td {
+    background-color: #F2F2F2;
     border-collapse: collapse;}
 table {
+    border: 1px solid #000000;
     width: 100%;
 }
 caption {
@@ -32,10 +34,12 @@ caption {
     text-align: left;
 }
 th, td {
-    /* border: 1px inset #CCCCCC; */
+    border: 1px inset #CCCCCC;
     hyphens: auto;
     padding: 0.25em;
-    vertical-align: top;
+}
+td { 
+    font-size: 80%;
 }
 
 /******************************************************************************/

@@ -1,19 +1,15 @@
 var respecConfig = {
   specStatus: "GN-WV",
   specType: "IM",
-  publishDate: "2017-07-28",
+  publishDate: "2019-04-25",
   editors: [{
-    name: "First Lastname",
-    company: "Company",
-    companyURL: "CompanyURL",
-  },{
-    name: "Second Lastname",
-    company: "Company",
-    companyURL: "CompanyURL",
+    name: "Sample suer",
+    company: "Kadaster",
+    companyURL: "http://www.kadaster.nl",
   }],
-  shortName: "bro-SAMPLE",
-  pubDomain: "bro",
-  github: "https://github.com/BROprogramma/SAMPLE",
+  shortName: "Kadaster Sample Catalog",
+  pubDomain: "Kadaster",
+  github: "https://github.com/Imvertor/KADSAMPLE",
   //previousPublishDate: "2017-01-01",
   //previousStatus: "GN-CV",
   //localBiblio: {
